@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="devicon.min.css">
+ # <link rel="stylesheet" href="devicon.min.css">
 
 # Hello there, my name is Ronnie and welcome to my profile!
 
