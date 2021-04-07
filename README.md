@@ -1,7 +1,7 @@
 # Hello there, my name is Ronnie and welcome to my profile!
 
 ## A little about me:
--  :soccer: Professional/Collegiate Soccer Referee
+-  :soccer:  Professional/Collegiate Soccer Referee
 - Collegaite Lacrosse Coach
 - Former Collegiate/High School Strength & Conditioning Coach
 ## My story...
