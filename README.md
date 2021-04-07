@@ -1,7 +1,4 @@
- # <link rel="stylesheet" href="devicon.min.css">
-
 # Hello there, my name is Ronnie and welcome to my profile!
-
 ## A little about me:
 - :soccer:&nbsp;&nbsp; Professional/Collegiate Soccer Referee
 - :lacrosse:&nbsp;&nbsp; Collegiate Lacrosse Coach
@@ -23,5 +20,9 @@ In the past few months, I have been teaching myself programming languages throug
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
-<i class="devicon-git-plain"></i>
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-aftereffects-plain"></i>
 
