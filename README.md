@@ -1,4 +1,4 @@
-### Hello there, my name is Ronnie and welcome to my profile!
+# Hello there, my name is Ronnie and welcome to my profile!
 
 ## A little about me:
 - Fact 1
