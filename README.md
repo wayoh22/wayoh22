@@ -1,8 +1,9 @@
 # Hello there, my name is Ronnie and welcome to my profile!
 ## A little about me:
-- :soccer:&nbsp;&nbsp; Professional/Collegiate Soccer Referee
-- :lacrosse:&nbsp;&nbsp; Collegiate Lacrosse Coach
-- :weight_lifting_man:&nbsp;&nbsp; Former Collegiate/High School Strength & Conditioning Coach
+- :computer:&nbsp; Aspiring Self-Taught Full Stack Developer
+- :soccer:&nbsp; Professional/Collegiate Soccer Referee
+- :lacrosse:&nbsp;& Collegiate Lacrosse Coach
+- :weight_lifting_man:&nbsp; Former Collegiate/High School Strength & Conditioning Coach
 ## My story...
 <p>Throughout my time as a Strength & Conditioning Coach, I came to realize I’m relentless when it comes to problem-solving. How can I best suit my athlete according to their goals? How can I make this athlete stronger whilst not taxing them too much? How can I adapt my plan for an athlete when something changes in their day-to-day? These are the type of questions I persistently asked myself.
 
