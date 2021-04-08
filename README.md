@@ -4,6 +4,14 @@
 - :soccer:&nbsp;&nbsp; Professional/Collegiate Soccer Referee
 - :lacrosse:&nbsp;&nbsp; Collegiate Lacrosse Coach
 - :weight_lifting_man:&nbsp;&nbsp; Former Collegiate/High School Strength & Conditioning Coach
+<br>
+
+## :boom: &nbsp;2021 Goals :boom:
+- Earn my first full-time offer
+- Contribute to open source projects
+- Dwelve more into image recognition with Pyimagesearch
+<br>
+
 ## My story...
 <p>Throughout my time as a Strength & Conditioning Coach, I came to realize I’m relentless when it comes to problem-solving. How can I best suit my athlete according to their goals? How can I make this athlete stronger whilst not taxing them too much? How can I adapt my plan for an athlete when something changes in their day-to-day? These are the type of questions I persistently asked myself.
 
