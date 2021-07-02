@@ -2,7 +2,7 @@
 ## A little about me:
 - :computer:&nbsp;&nbsp; Aspiring Self-Taught Full Stack Developer
 - :soccer:&nbsp;&nbsp; Professional/Collegiate Soccer Referee
-- :lacrosse:&nbsp;&nbsp; Collegiate Lacrosse Coach
+- :lacrosse:&nbsp;&nbsp; Former Collegiate Lacrosse Coach
 - :weight_lifting_man:&nbsp;&nbsp; Former Collegiate/High School Strength & Conditioning Coach
 <br>
 
