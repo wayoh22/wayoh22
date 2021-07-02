@@ -1,6 +1,6 @@
 # Hello there, my name is Ronnie and welcome to my profile!
 ## A little about me:
-- :computer:&nbsp;&nbsp; Aspiring Self-Taught Full Stack Developer
+- :computer:&nbsp;&nbsp; Aspiring Self-Taught Web Developer
 - :soccer:&nbsp;&nbsp; Professional/Collegiate Soccer Referee
 - :lacrosse:&nbsp;&nbsp; Former Collegiate Lacrosse Coach
 - :weight_lifting_man:&nbsp;&nbsp; Former Collegiate/High School Strength & Conditioning Coach
