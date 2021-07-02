@@ -8,7 +8,6 @@
 
 ## :boom: &nbsp;2021 Goals :boom:
 - Earn my first full-time offer
-- Contribute to open source projects
 - Dwelve more into image recognition with Pyimagesearch
 <br>
 
